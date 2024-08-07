@@ -1,0 +1,145 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: rgba(227, 165, 71, 0.774);
+    height: 100%;
+    
+}
+.maindiv{
+    background-color: rgb(236, 229, 214);
+    margin: 50px;
+    margin-bottom: 20px;
+    padding: 40px;
+    border-radius: 40px;
+    height: 100%;
+}
+
+.section1{
+    background-color: rgb(248, 165, 12);
+    border-radius: 30px;
+    height: 330px;
+    width: 80%;
+    padding: 20px;
+    margin: 10px;
+    margin-left: 20px;
+}
+
+header {
+    padding: 10px 0;
+}
+
+nav {
+    display: flex;
+    
+    align-items: center;
+    padding: 0 20px;
+}
+
+.logo1{
+    width: 40px;
+    border-radius: 40px;
+}
+.logo2{
+    width: 40px;
+    border-radius: 40px;
+}
+
+.productdetails{
+    margin-left: 240px;
+}
+.nextproduct{
+    margin-left: 250px;
+}
+nav a {
+    color: rgb(59, 55, 55);
+    text-decoration: none;
+    margin-right: 20px;
+}
+.shophub{
+    font-size: 30px;
+    margin-right: 300px;
+}
+.s239{
+    margin-left: 350px;
+}
+.logo {
+    width: 40px;
+    height: 40px;
+}
+h1{
+    font-size: 40px;
+}
+.section2{
+    background-color: rgb(240, 219, 219);
+    width: 68%;
+    height: 340px;
+    margin: 150px 130px 10px 100px;
+    padding: 30px;
+    display: flex;
+    border-radius: 30px;
+}
+.section1,
+.section2{
+    position: absolute;
+}
+.nikediv{
+    margin: 60px 20px 20px 60px;
+    font-size: large;
+}
+h2{
+    color: rgb(62, 56, 139);
+}
+.shoes{
+    width: 70px;
+    border-radius: 20px;
+}
+.mainshoes{
+    margin: 90px 10px 10px 80px;
+}
+.checkboxdiv{
+    margin: 60px 10px 10px 70px;
+    font-size: 20px;
+}
+button{
+    font-size: 20px;
+    background-color: rgb(72, 25, 117);
+    color: aliceblue;
+    border-radius: 20px;
+}
+input[type="radio"] {
+    -ms-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    width: 20px;
+}
+.radio1[type=radio]{
+    accent-color: green;
+}
+.radio2[type=radio]{
+    accent-color: orange;
+}
+.radio3[type=radio]{
+    accent-color: red;
+}
+.radio4[type=radio]{
+    accent-color: blue;
+}
+.checked {
+    color: orange;
+}
+.star{
+    display: flex;
+}
+.text{
+    margin: 10px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    padding: 10px;
+}
+.text1{
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(252, 179, 83);
+    padding: 10px;
+}
